@@ -97,7 +97,7 @@ Hobbies: ["DJing", "Bouldering", "Scuba Diving (PADI advanced certified)", "Snow
 I am a top rated mentor on [MentorCruise](https://mentors.to/robfraser)
 
 <a href="https://mentors.to/robfraser" target="_blank" rel="noopener noreferrer">
-<Image src="static/images/safe-weather-responsive-views.png" loading="lazy" decoding="async" fetchpriority="auto">
+<Image src="static/images/mentorcruise-profile.jpg" loading="lazy" decoding="async" fetchpriority="auto">
 <a/>
 
 <a href="https://mentorcruise.com/mentor/robertfraser/?source=embed">
