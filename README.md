@@ -80,7 +80,9 @@ Hobbies: ["DJing", "Bouldering", "Scuba Diving (PADI advanced certified)", "Snow
 <a href="https://realtimebasecamp.github.io/ue5-editor-menu-shelf-pro/" target="_blank" rel="noopener noreferrer">
 <Image src="static/images/EditorMenuShelfProDemo.gif" loading="lazy" decoding="async" fetchpriority="auto">
 <a/>
+
 [Editor Menu Shelf Pro](https://realtimebasecamp.github.io/ue5-editor-menu-shelf-pro/) - Python plugin for Unreal Engine
+
 #### Features
 - Exposed Python API
 - Customisable "workspace" shelf system via `.xlsx` files
