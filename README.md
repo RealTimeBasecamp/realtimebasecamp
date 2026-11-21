@@ -4,7 +4,7 @@
 Name: Rob Fraser
 Pronouns: He/Him
 Located_in: London, United Kingdom
-Current_job: Full stack developer | Programming Mentor @ MentorCruise
+Current_job: UE5 Technical Artist | Pipeline Developer | Mentor @ MentorCruise
 Education:
   [
     "1st Class BSc (HONS) Computer Games Technology @ University of Portsmouth",
